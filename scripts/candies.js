@@ -9,7 +9,7 @@ var candies = {
     
     // Functions
     onload : function(){
-        candies.setNbrOwned(0); // We first have 0 candies
+        candies.setNbrOwned(70000000000000); // We first have 0 candies
     },
     
     eat : function(){
